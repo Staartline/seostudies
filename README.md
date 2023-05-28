@@ -1,0 +1,2 @@
+# seostudies
+studying seo methods
